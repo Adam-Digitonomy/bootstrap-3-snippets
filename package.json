@@ -58,6 +58,10 @@
 			{
  				"language": "typescriptreact",
  				"path": "./snippets/snippets.json"
+ 			} ,
+			{
+ 				"language": "blade",
+ 				"path": "./snippets/snippets.json"
  			} 
 		]
 	}
